@@ -2,6 +2,7 @@
 ![test image size](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png){:height="50%" width="50%"}
 ![test image size](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png){:height="700px" width="400px"}
  
+![test image size](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png){:height="500" width="200"}
 
 
 # Hi, I'm Pazze! :D
