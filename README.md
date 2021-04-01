@@ -1,5 +1,6 @@
-![alt text](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png)
+![alt text](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png | width=100)
 
+ 
 
 
 # Hi, I'm Pazze! :D
