@@ -1,5 +1,6 @@
-![alt text](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png | width=100)
-
+![alt text](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png)
+![test image size](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png){:height="50%" width="50%"}
+![test image size](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png){:height="700px" width="400px"}
  
 
 
