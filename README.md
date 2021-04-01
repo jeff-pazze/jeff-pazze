@@ -1,6 +1,6 @@
  
  
- <img src="https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png" width="96">
+ <img src="https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png" width="200">
 
 
 # Hi, I'm Pazze! :D
