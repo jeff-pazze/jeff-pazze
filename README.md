@@ -1,4 +1,4 @@
-![alt text](https://github.com/jeff-pazze/jeff-pazze/blob/main/IMG_6286%20(1).jpg)
+![alt text](https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png)
 
 # Hi, I'm Pazze! :D
 
