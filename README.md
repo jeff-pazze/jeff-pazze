@@ -2,6 +2,7 @@
  
  <img src="https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png" width="200">
 
+
 <details><summary><b>Show instructions</b></summary>
 
 1. Install the preset:
@@ -9,6 +10,10 @@
     ```sh
     $ npm install --save-dev size-limit @size-limit/file
     ```
+    
+</details>
+
+    
 # Hi, I'm Pazze! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/jeff-pazze)
