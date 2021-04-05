@@ -2,7 +2,6 @@
  
  <img src="https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png" width="200">
 
-https://img.shields.io/david/dev/jeff-pazze/GOLD-TREE?style=for-the-badge
 
 # Hi, I'm Pazze! :D
 
