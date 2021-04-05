@@ -15,3 +15,4 @@ Mestrando em Engenharia Industrial com ênfase em controle, engenheiro de contro
 - [Lattes](http://lattes.cnpq.br/4490763049554022) 💻 
 - [Blog](https://www.lensengineer.com/blog) 💻
 - [Website](https://www.lensengineer.com/) 💻
+
