@@ -2,7 +2,7 @@
  
  <img src="https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png" width="200">
 
-
+'''
 <details><summary><b>Show more information</b></summary>
 
 1. Install :
@@ -12,7 +12,7 @@
     ```
     
 </details>
-
+'''
     
 # Hi, I'm Pazze! :D
 
