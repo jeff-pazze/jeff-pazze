@@ -3,12 +3,12 @@
  <img src="https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png" width="200">
 
 
-<details><summary><b>Show instructions</b></summary>
+<details><summary><b>Show more information</b></summary>
 
-1. Install the preset:
+1. Install :
 
     ```sh
-    $ npm install --save-dev size-limit @size-limit/file
+    $ npm install
     ```
     
 </details>
