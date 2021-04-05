@@ -2,17 +2,6 @@
  
  <img src="https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png" width="200">
 
-'''
-<details><summary><b>Show more information</b></summary>
-
-1. Install :
-
-    ```sh
-    $ npm install
-    ```
-    
-</details>
-'''
     
 # Hi, I'm Pazze! :D
 
@@ -27,3 +16,13 @@ Mestrando em Engenharia Industrial com ênfase em controle, engenheiro de contro
 - [Blog](https://www.lensengineer.com/blog) 💻
 - [Website](https://www.lensengineer.com/) 💻
 
+
+<details><summary><b>Show more information</b></summary>
+
+1. Install :
+
+    ```sh
+    $ npm install
+    ```
+    
+</details>
