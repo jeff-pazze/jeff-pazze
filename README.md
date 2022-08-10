@@ -16,14 +16,4 @@ Mestrando em Engenharia Industrial com ênfase em controle, engenheiro de contro
 - [Blog](https://www.lensengineer.com/blog) 💻
 - [Website](https://www.lensengineer.com/) 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsouzapazze&show_icons=true&theme=radical)
-
-<details><summary><b>Show more information</b></summary>
-
-1. Install :
-
-    ```sh
-    $ npm install
-    ```
-    
-</details>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-pazze&show_icons=true&theme=radical)
