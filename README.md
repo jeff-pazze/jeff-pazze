@@ -1,8 +1,9 @@
  
  
  <img src="https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png" width="200">
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=laisaquinoo&label=views&color=orange&style=flat" alt="laisaquinoo" /> </p>
 
-    
 # Hi, I'm Pazze! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/jeff-pazze)
