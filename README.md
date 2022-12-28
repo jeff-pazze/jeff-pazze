@@ -1,11 +1,11 @@
  
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeff-pazze&label=views&color=orange&style=flat" alt="jeff-pazze" /> </p>
 
 <img src="https://github.com/jeff-pazze/jeff-pazze/blob/main/download.png" width="200">
  
 
 # Hi, I'm Pazze! :D
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeff-pazze&label=views&color=orange&style=flat" alt="jeff-pazze" /> </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/jeff-pazze)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jeferson-souza-pazze-53806469/)
