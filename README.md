@@ -12,7 +12,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UC1MiNBiDSXGv-6tbf4NIDUw)
 
 ![Pazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-pazze&show_icons=true&theme=radical)  
- [![Top Langs]<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pazze&layout=compact&langs_count=16&theme=great-gatsby"/> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pazze&layout=compact&langs_count=16&theme=great-gatsby"/> 
 
 ![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/42153349/209742939-cc65b6a2-70a8-4967-8c08-38f855a4e6a8.png)
 ![aws-partner-cloud-economics-accreditation](https://user-images.githubusercontent.com/42153349/209742946-1c5f35d4-b78c-46f0-b418-b76c78281408.png)
