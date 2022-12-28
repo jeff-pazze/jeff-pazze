@@ -15,7 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pazze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![aws-educate-introduction-to-cloud-101](https://user-images.githubusercontent.com/42153349/209742930-482266c3-f6cb-4798-84dc-b25459677c3a.png)
 ![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/42153349/209742939-cc65b6a2-70a8-4967-8c08-38f855a4e6a8.png)
 ![aws-partner-cloud-economics-accreditation](https://user-images.githubusercontent.com/42153349/209742946-1c5f35d4-b78c-46f0-b418-b76c78281408.png)
 
