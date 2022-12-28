@@ -19,9 +19,6 @@
 
 ![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/42153349/209742939-cc65b6a2-70a8-4967-8c08-38f855a4e6a8.png)
 ![aws-partner-cloud-economics-accreditation](https://user-images.githubusercontent.com/42153349/209742946-1c5f35d4-b78c-46f0-b418-b76c78281408.png)
-
-   
-![Snake animation](https://github.com/laisaquinoo/laisaquinoo/blob/output/github-contribution-grid-snake.svg)
    
  
 ### About me
@@ -30,3 +27,6 @@ Mestrando em Engenharia Industrial com ênfase em controle, engenheiro de contro
 - [Lattes](http://lattes.cnpq.br/4490763049554022) 💻 
 - [Blog](https://www.lensengineer.com/blog) 💻
 - [Website](https://www.lensengineer.com/) 💻
+
+![Snake animation](https://github.com/laisaquinoo/laisaquinoo/blob/output/github-contribution-grid-snake.svg)
+
