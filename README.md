@@ -11,7 +11,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jeferson-souza-pazze-53806469/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UC1MiNBiDSXGv-6tbf4NIDUw)
 
-![Pazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-pazze&show_icons=true&theme=radical)  
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeff-pazze&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pazze&layout=compact&langs_count=16&theme=great-gatsby"/> 
 
 ![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/42153349/209742939-cc65b6a2-70a8-4967-8c08-38f855a4e6a8.png)
