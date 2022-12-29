@@ -19,8 +19,11 @@
 
 ![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/42153349/209742939-cc65b6a2-70a8-4967-8c08-38f855a4e6a8.png)
 ![aws-partner-cloud-economics-accreditation](https://user-images.githubusercontent.com/42153349/209742946-1c5f35d4-b78c-46f0-b418-b76c78281408.png)
-https://partner.cloudskillsboost.google/public_profiles/37ffc64e-e0ae-4b78-8691-6b8900df1a26/badges/1390723
-https://cdn.qwiklabs.com/%2BryOUrH8WqYJg5MtbMGe6UvivunnK75%2FXGrZOipwSng%3D
+![image](https://user-images.githubusercontent.com/42153349/209888547-89dc9f07-65f7-4c56-8097-d56e649e12cb.png)
+![image](https://user-images.githubusercontent.com/42153349/209888556-93471928-ba81-44d1-9669-4aefe1243d5c.png)
+![image](https://user-images.githubusercontent.com/42153349/209888562-2e2bd416-ecb8-4277-be33-b645f4ee3359.png)
+
+
 
 ### About me
 Mestrando em Engenharia Industrial com ênfase em controle, engenheiro de controle e automação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). Atualmente trabalho com machine learning e visão computacional, realizei recentemente dois cursos com foco em desenvolvimento em python e analista de machine learning, no momento estudo desenvolvimento cloud e power BI no IGTI. Fui bolsista de iniciação cientifica (IC) pela FAPERGS no Laboratório de Bioinformática, Modelagem e Simulação de Biossistemas (LABIO - PUCRS) onde neste desenvolvi uma ferramenta de software, hardware e um projeto mecânico utilizando visão computacional e aprendizado de máquina que tinha como objetivo auxiliar alunos com deficiência visual no aprendizado de Bioinformática Estrutural (BE), sendo que na avaliação interna de iniciação científica da PUCRS no ano 2019 obtive nota máxima pela apresentação do mesmo, juntamente com um certificado de destaque. Possuo experiência na área de validação, testes de hardware/software e desenvolvimento de jigas de testes na área de eletromédicos. Tenho conhecimentos na área de projeto mecânico, como ferramentas de CAD, CAE e CAM e impressora 3D. Também desenvolvo software nas linguagens Python, C, C++ e MATLAB. Sou um entusiasta em blockchain e criptomoedas, assim como, analise técnica e fundamentalista do mercado financeiro.
