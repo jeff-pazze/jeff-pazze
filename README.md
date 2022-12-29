@@ -19,7 +19,7 @@
 
 ![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/42153349/209742939-cc65b6a2-70a8-4967-8c08-38f855a4e6a8.png)
 ![aws-partner-cloud-economics-accreditation](https://user-images.githubusercontent.com/42153349/209742946-1c5f35d4-b78c-46f0-b418-b76c78281408.png)
-![image](https://user-images.githubusercontent.com/42153349/209888547-89dc9f07-65f7-4c56-8097-d56e649e12cb.png)
+ <img height="180em" src= ![image](https://user-images.githubusercontent.com/42153349/209888547-89dc9f07-65f7-4c56-8097-d56e649e12cb.png)/> 
 ![image](https://user-images.githubusercontent.com/42153349/209888556-93471928-ba81-44d1-9669-4aefe1243d5c.png)
 ![image](https://user-images.githubusercontent.com/42153349/209888562-2e2bd416-ecb8-4277-be33-b645f4ee3359.png)
 
