@@ -23,10 +23,18 @@
 <img height="180em" src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"/> 
 <img height="180em" src="https://cdn.qwiklabs.com/JY5rwzuDw2pgv0k%2BzVROSlrK%2BGOHgiPDn2rcxgmbXFw%3D"/> 
 <img height="180em" src="https://cdn.qwiklabs.com/%2BryOUrH8WqYJg5MtbMGe6UvivunnK75%2FXGrZOipwSng%3D"/> 
-<img height="180em" src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"/> 
-<img height="180em" src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"/> 
+<img height="180em" src="https://cdn.qwiklabs.com/Tp95SklZyEaKG%2BPGH2gExjCAu3AmzSSYrk421fc2CfU%3D"/> 
+<img height="180em" src="https://cdn.qwiklabs.com/5726hGwzQOfUu5PECFD3gX%2BNNnzexZIcbq%2BA%2FD3QwXU%3D"/> 
+<img height="180em" src="https://cdn.qwiklabs.com/tUzKfqrMUtGF6Zc%2F6egutvDf0bS9rBCPnRqi4%2FJZo1c%3D"/> 
+<img height="180em" src="https://cdn.qwiklabs.com/HB%2FJHtyZszUpnqOz3avahVbVDfzXdqoJ5HZmsEjkqUQ%3D"/> 
+<img height="180em" src="https://cdn.qwiklabs.com/L9MkVmvvkQtN0qpLgG574wUmn0jyqfldSDxax7SMYUo%3D"/> 
 
 
+<p float="left">
+  <img src="src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"" width="100" />
+  <img src="src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"" width="100" /> 
+  <img src="src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"" width="100" />
+</p>
 
 
 ### About me
