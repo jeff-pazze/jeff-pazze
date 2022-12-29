@@ -31,12 +31,14 @@
 
 
 <p float="left">
-  <img src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D" width="200" />
+  <img src="[https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D](https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D)" width="200" />
   <img src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D" width="200" /> 
+  <img src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D" width="200" />
+  <img src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D" width="200" />
+  <img src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D" width="200" />
   <img src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D" width="200" />
 </p>
                                                                                                          
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
 
 
 ### About me
