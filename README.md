@@ -21,7 +21,7 @@
 ![aws-partner-cloud-economics-accreditation](https://user-images.githubusercontent.com/42153349/209742946-1c5f35d4-b78c-46f0-b418-b76c78281408.png)
 
 <img height="180em" src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"/> 
-<img height="180em" src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"/> 
+<img height="180em" src="[https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D](https://cdn.qwiklabs.com/JY5rwzuDw2pgv0k%2BzVROSlrK%2BGOHgiPDn2rcxgmbXFw%3D)"/> 
 <img height="180em" src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"/> 
 <img height="180em" src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"/> 
 <img height="180em" src="https://cdn.qwiklabs.com/wT0Q7sYzi0FYdGR5M5iJDHPpT7%2BhX20PpzrJK%2FA0LCA%3D"/> 
